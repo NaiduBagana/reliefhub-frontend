@@ -6,7 +6,7 @@ const MapComponent = ({ coordinates }) => {
 
   useEffect(() => {
     mapboxgl.accessToken =
-      "pk.eyJ1IjoiaGFyc2hzaW5kaHUwNDAyIiwiYSI6ImNsbXozZW9qcjB2OHYya256eDh6djNtazUifQ.LHW2WOgKj04bIqUNJuAzVw";
+      "pk.eyJ1IjoiY2hhaXR1YWIyMSIsImEiOiJjbHozbmpjMGYwZjZpMmpzZmRtaW9scjJpIn0.1fD4pDTNoJfD2Cb2zt1fQA";
 
     const map = new mapboxgl.Map({
       container: mapContainer.current,
