@@ -34,11 +34,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshsindhu0408/ResQlink-frontend"
+    "url": "git+https://github.com/NaiduBagana/reliefhub-frontend.git"
   },
   "author": "Harsh",
   "bugs": {
-    "url": "https://github.com/harshsindhu0408/ResQlink-frontend"
+    "url": "https://github.com/NaiduBagana/reliefhub-frontend.git"
   },
   "scripts": {
     "start": "react-scripts start",
